@@ -1,0 +1,11 @@
+if n is lower than SN
+print(secret number is higher)
+run again
+
+if n is higher than SN
+print(secret number is lower)
+run again
+
+if n = SN
+print(correct you got it!)
+run again
