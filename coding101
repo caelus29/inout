@@ -1,3 +1,5 @@
+take guess and turn into integer
+
 if n is lower than SN
 print(secret number is higher)
 run again
@@ -9,3 +11,5 @@ run again
 if n = SN
 print(correct you got it!)
 run again
+
+ne shi tongxinglian
